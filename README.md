@@ -7,6 +7,16 @@
 - ⚡ Fun fact: I'm a certified open waters scuba diver and a Polynesian dance interantional competitor 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+
+## 🤝 Connect with me:
+
+I'm best reached via email (check out my Ln profile for my contact information). I'm always open to interesting projects and collaboration.
+
+<a href="https://www.linkedin.com/in/myln-pablo/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="pabloweb8@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Pablo | Gmail"></a>
+<a href="https://www.instagram.com/pablovicruiz/?hl=en"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Pablo | Instagram"></a>
+
+
 ## 💼 Technical Skills
 
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -36,11 +46,3 @@
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-## 🤝 Connect with me:
-
-I'm best reached via email (check out my Ln profile for my contact information). I'm always open to interesting projects and collaboration.
-
-<a href="https://www.linkedin.com/in/myln-pablo/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="pabloweb8@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Pablo | Gmail"></a>
-<a href="https://www.instagram.com/pablovicruiz/?hl=en"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Pablo | Instagram"></a>
