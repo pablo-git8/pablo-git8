@@ -7,8 +7,6 @@
 - ⚡ Fun fact: I'm a certified open waters scuba diver and a Polynesian dance interantional competitor 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-<br/>
-
 ## 🤝 Connect with me:
 
 I'm best reached via email (check out my Ln profile for my contact information). I'm always open to interesting projects and collaboration.
