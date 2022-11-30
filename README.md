@@ -15,6 +15,8 @@ I'm best reached via email (check out my Ln profile for my contact information).
 <a href="pabloweb8@gmail.com"><img align="left" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Pablo | Gmail" width="33px"/></a>
 <a href="https://www.instagram.com/pablovicruiz/?hl=en"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Pablo | Instagram" width="28px"/></a>
 
+<br/>
+
 ## 💼 Technical Skills
 
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
