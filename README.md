@@ -14,7 +14,7 @@
 
 I'm best reached via email (check out my Ln profile for my contact information). I'm always open to interesting projects and collaboration.
 
-<a href="https://www.linkedin.com/in/myln-pablo/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="21px"/></a>
+<a href="https://www.linkedin.com/in/myln-pablo/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
