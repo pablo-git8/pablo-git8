@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I'm a certified open waters scuba diver and a Polynesian dance interantional competitor 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-<br/>
 
 ## 💼 Technical Skills
 
@@ -40,7 +39,6 @@
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<br/>
 
 ## 🤝 Connect with me:
 
