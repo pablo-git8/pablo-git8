@@ -17,6 +17,7 @@ I'm best reached via email (check out my Ln profile for my contact information).
 <a href="https://www.instagram.com/pablovicruiz/?hl=en"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Pablo | Instagram"></a>
 
 <br/>
+<br/>
 
 
 ## 💼 Technical Skills
