@@ -17,7 +17,7 @@ I'm best reached via email (check out my Ln profile for my contact information).
 <br/>
 <br/>
 
-## 💼 Technical Skills
+## Technical Skills
 
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -56,3 +56,5 @@ I'm best reached via email (check out my Ln profile for my contact information).
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+🤝 💼
