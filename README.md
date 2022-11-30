@@ -14,9 +14,11 @@
 
 I'm best reached via email (check out my Ln profile for my contact information). I'm always open to interesting projects and collaboration.
 
-<a href="https://www.linkedin.com/in/myln-pablo/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/myln-pablo/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/pablovicruiz/?hl=en"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Pablo | Instagram"></a>
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 <a href="https://www.linkedin.com/in/myln-pablo/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Pablo | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/pablovicruiz/?hl=en"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Pablo | Instagram" width="21px"/></a>
