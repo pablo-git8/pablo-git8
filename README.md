@@ -12,7 +12,7 @@
 I'm best reached via email (check out my Ln profile for my contact information). I'm always open to interesting projects and collaboration.
 
 <a href="https://www.linkedin.com/in/myln-pablo/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Pablo | LinkedIn" width="21px"/></a>
-<a href="pabloweb8@gmail.com"><img align="left" src="https://vectorseek.com/wp-content/uploads/2021/02/Gmail-Logo-Vector-730x730.jpg" alt="Pablo | Gmail" width="21px"/></a>
+<a href="pabloweb8@gmail.com"><img align="left" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Pablo | Gmail" width="21px"/></a>
 <a href="https://www.instagram.com/pablovicruiz/?hl=en"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Pablo | Instagram" width="21px"/></a>
 
 <br/>
@@ -22,6 +22,7 @@ I'm best reached via email (check out my Ln profile for my contact information).
 ## 💼 Technical Skills
 
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
