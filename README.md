@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I'm a certified open waters scuba diver and a Polynesian dance interantional competitor 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-#### 💼 Technical Skills
+## 💼 Technical Skills
 
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -43,7 +43,7 @@
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-#### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 I'm best reached via email (check out my Ln profile for my contact information). I'm always open to interesting projects and collaboration.
 
