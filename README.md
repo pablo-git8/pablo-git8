@@ -1,6 +1,6 @@
 ## 👋  Hi | Hola | Shalom | Olá | 안녕 | Kumusta | Hallo | హలో | नमस्ते 
 
-## I am Pablo
+## I'm Pablo
 
 - 🎓 I'm a bioengineer and data scientist. I grew up in Mexico and have lived / studied in Switzerland, South Korea and the US
 - 🔭 I’m currently working a project to [detect diabetic retinopathy using Deep Learning](https://github.com/pablo-git8/retinopathy-detection)
