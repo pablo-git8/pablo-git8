@@ -3,9 +3,9 @@
 ## I'm Pablo
 
 - 🎓 I'm a bioengineer and data scientist. I'm Mexican and have lived and studied in Switzerland, South Korea, and the US
-- :desktop_computer: I’m currently studying my master's degree in Big Data and A.I. in the vibrant city of Barcelona.
+- 🖥️ I’m currently studying my master's degree in Big Data and A.I. in the vibrant city of Barcelona.
 - 🔭 I'm also working on a project to [detect diabetic retinopathy using Deep Learning](https://github.com/pablo-git8/retinopathy-detection)
-- 🌱 I’m currently learning [Google Cloud](https://cloud.google.com/training?hl=en) and [Machine Learning Systems Design](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/ch01.html)
+- 🌱 I’m currently expanding my knowledge in [Databricks](https://www.databricks.com/resources/ebook/the-data-lakehouse-platform-for-dummies?scid=7018Y000001Fi0tQAC&utm_medium=paid+search&utm_source=google&utm_campaign=14925738952&utm_adgroup=133613219972&utm_content=ebook&utm_offer=the-data-lakehouse-platform-for-dummies&utm_ad=666067198475&utm_term=databricks&gclid=CjwKCAjw1t2pBhAFEiwA_-A-NCSnszo79mKL262f2hjHyoZo1v-R20inHRzu6iN08xs0DRyv7Srr9RoClT0QAvD_BwE) data lakehouse technology and [Data Engineering](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/ch01.html](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/ch01.html)
 - 🤔 I’m looking for help with applying my data science knowledge in a productive environment and develop myself in Data Engineering related topics
 - ⚡ Fun fact: I'm a certified open waters scuba diver and a Polynesian dance international competitor 
 
