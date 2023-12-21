@@ -14,7 +14,7 @@
 I'm best reached via email (check my Ln profile for my full contact information). I'm always open to interesting projects and collaboration. If you have any questions/feedback, please do not hesitate to reach out to me!
 
 <a href="https://www.linkedin.com/in/myln-pablo/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Pablo | LinkedIn" width="28px"/></a>
-<a href="pablo.ruiz@bts.tech"><img align="left" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Pablo | Gmail" width="33px"/></a>
+<a href="pablo.devdt@gmail.com"><img align="left" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Pablo | Gmail" width="33px"/></a>
 <a href="https://www.instagram.com/pablovicruiz/?hl=en"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Pablo | Instagram" width="28px"/></a>
 
 <br/>
