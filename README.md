@@ -22,7 +22,7 @@ I'm best reached via email (check my Ln profile for my full contact information)
 ## 💼 Technical Stack
 <br/>
 **Operative Systems**
-<br/>
+
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
