@@ -19,7 +19,7 @@ I'm best reached via email (check my Ln profile for my full contact information)
 <br/>
 <br/>
 
-## 💼 Technical Skills
+## 💼 Technical Stack
 
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
