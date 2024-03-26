@@ -11,7 +11,7 @@
 ## 🤝 Connect with me:
 
 I'm best reached via email (check my Ln profile for my full contact information). I'm always open to interesting projects and collaboration. If you have any questions/feedback, please do not hesitate to reach out to me!
-
+<br/>
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/myln-pablo/)
 [![gmail](https://skillicons.dev/icons?i=gmail)](pablo.devdt@gmail.com)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pablovicruiz/?hl=en)
