@@ -19,7 +19,6 @@ I'm best reached via email (check my Ln profile for my full contact information)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pablovicruiz/?hl=en)
 
 <br/>
-<br/>
 
 ## 💼 Technical Stack
 ### Programming Languages
