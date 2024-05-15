@@ -2,11 +2,11 @@
 
 # I'm Pablo
 
-- ⚡ I'm Mexican and have lived/studied in Switzerland, South Korea, the US and Spain.
-- 🎓 I work at Capitole IT Consulting in Barcelona as a Data Engineer.
-- 🖥️ Studying my master's degree in Big Data and A.I. in Barcelona Technology School.
-- 🔭 Working on AI-powered chatbot for a supply chain SaaS company as a side project.
-- 🌱 Currently expanding my knowledge in [AWS](https://aws.amazon.com/architecture/security-identity-compliance/?achp_navtc13&cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all). Specifically in EC2, S3, RDS and Redshift.
+- ⚡ I'm Mexican and have lived in Switzerland, South Korea, the US and now I'm based in Spain
+- 🎓 I work the International Airlines Group as a Data Engineer
+- 🖥️ Studying my master's in Big Data Engineering and A.I. in a program credited by the University of Barcelona
+- 🔭 Developing an AI-powered software solution for a supply chain SaaS company as a side project
+- 🌱 Currently expanding my knowledge in data architecture and infrastructure in [AWS](https://aws.amazon.com/architecture/security-identity-compliance/?achp_navtc13&cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all).
 
 ## 🤝 Connect with me:
 
