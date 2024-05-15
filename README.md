@@ -8,7 +8,7 @@
 - 🔭 Developing an AI-powered software solution for a supply chain SaaS company as a side project
 - 🌱 Currently expanding my knowledge in data architecture and infrastructure in AWS
 
-## 🤝 Connect with me:
+## 🤝 Let's Connect!
 
 I'm best reached via email (check my Ln profile for my full contact information). I'm always open to interesting projects and collaboration. If you have any questions/feedback, please do not hesitate to reach out to me!
 
