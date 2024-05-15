@@ -4,7 +4,7 @@
 
 - ⚡ I'm Mexican and have lived in Switzerland, South Korea, the US and now I'm based in Spain
 - 🎓 I work the International Airlines Group as a Data Engineer
-- 🖥️ Studying my master's in Big Data Engineering and A.I. in a program credited by the University of Barcelona
+- 🖥️ Studying my master's in Big Data and A.I. in a program credited by the University of Barcelona
 - 🔭 Developing an AI-powered software solution for a supply chain SaaS company as a side project
 - 🌱 Currently expanding my knowledge in data architecture and infrastructure in [AWS](https://aws.amazon.com/architecture/security-identity-compliance/?achp_navtc13&cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all).
 
