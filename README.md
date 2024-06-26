@@ -4,9 +4,9 @@
 
 - 🎓 Data Engineer at the International Airlines Group (IAG)
 - 🖥️ Master's degree in Big Data and A.I. credited by the University of Barcelona
-- 🔭 Developing an Machine Learning / AI software solution for a logistics SaaS company as a side project
+- 🔭 Developing a software solution powered by ML and AI for a logistics SaaS company as a side project
 - ⚡ Born and raised in Mexico. Lived in Switzerland, South Korea, the US and now in Spain
-- 🌱 Currently expanding my knowledge in data architecture with AWS and CI/CD with Github Actions
+- 🌱 Currently expanding my knowledge in data architecture in AWS and CI/CD with Github Actions
 
 ## 🤝 Let's Connect!
 
