@@ -1,4 +1,4 @@
-## 👋  Hi | Hola | Shalom | Olá | 안녕 | Kumusta | హలో  | Hallo | नमस्ते 
+## 👋  Hi | Hola | Olá | 안녕 | Kumusta | హలో  | Hallo | नमस्ते 
 
 # I'm Pablo
 
