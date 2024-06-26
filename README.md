@@ -2,11 +2,11 @@
 
 # I'm Pablo
 
-- ⚡ I'm Mexican and have lived in Switzerland, South Korea, the US and now in Spain
-- 🎓 I work at the International Airlines Group (IAG) as a Data Engineer
-- 🖥️ Master's degree in Big Data and A.I. in a program credited by the University of Barcelona
-- 🔭 Developing an AI-powered software solution for a supply chain SaaS company as a side project
-- 🌱 Currently expanding my knowledge in data architecture and infrastructure in AWS
+- 🎓 Data Engineer at the International Airlines Group (IAG)
+- 🖥️ Master's degree in Big Data and A.I. credited by the University of Barcelona
+- 🔭 Developing an Machine Learning / AI software solution for a logistics SaaS company as a side project
+- ⚡ Born and raised in Mexico. Lived in Switzerland, South Korea, the US and now in Spain
+- 🌱 Currently expanding my knowledge in data architecture with AWS and CI/CD with Github Actions
 
 ## 🤝 Let's Connect!
 
