@@ -3,7 +3,7 @@
 # I'm Pablo
 
 - 🎓 Data Engineer at the International Airlines Group (IAG)
-- 🖥️ Master's degree in Big Data and A.I. credited by the University of Barcelona
+- 🖥️ Master's degree in Data Science and A.I. by the University of Barcelona
 - 🔭 Developing a software solution powered by ML and AI for a logistics SaaS company as a side project
 - ⚡ Born and raised in Mexico. Lived in Switzerland, South Korea, the US and now in Spain
 - 🌱 Currently expanding my knowledge in data architecture in AWS and CI/CD with Github Actions
