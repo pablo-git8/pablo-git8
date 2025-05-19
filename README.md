@@ -2,7 +2,8 @@
 
 # I'm Pablo
 
-- 🎓 Data Engineer at the International Airlines Group (IAG)
+- 🎓 Data Engineer at the International Airlines Group (IAG). Privte repos contributions in [here](https://github.com/pabloruiz-iag
+)
 - 🖥️ Master's degree in Data Science and A.I. by the University of Barcelona
 - 🔭 Developing a software solution powered by ML and AI for a logistics SaaS company as a side project
 - ⚡ Born and raised in Mexico. Lived in Switzerland, South Korea, the US and now in Spain
